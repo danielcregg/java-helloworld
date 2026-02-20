@@ -1,6 +1,6 @@
 package ie.gmit.packagename;
 
-class HelloWorld {
+public class HelloWorld {
     // Main method
     public static void main(String[] args) {
         // Print Hello World! to the console.
